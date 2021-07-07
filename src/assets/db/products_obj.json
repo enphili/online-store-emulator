@@ -1,0 +1,252 @@
+{
+  "-MTWLiJWmP_yQ0Ep_lSh" : {
+    "category" : "fruit",
+    "count" : 13,
+    "dataCreated" : "2021-02-14T16:23:47.045Z",
+    "firebaseKey" : "-MTWLiJWmP_yQ0Ep_lSh",
+    "id" : "1",
+    "img" : "https://images.grocery.yandex.net/2783132/a14b43cfbbac4898b5a89fd1e52c0029/300x300.png",
+    "price" : 99,
+    "title" : "Яблоко"
+  },
+  "-MTWLiMMRWdUxC9eGvyL" : {
+    "category" : "fruit",
+    "count" : 15,
+    "dataCreated" : "2021-02-14T16:23:47.227Z",
+    "firebaseKey" : "-MTWLiMMRWdUxC9eGvyL",
+    "id" : "2",
+    "img" : "https://images.grocery.yandex.net/2805921/631c3a283a994a80820c216ec51f139d/300x300.png",
+    "price" : 159,
+    "title" : "Груша"
+  },
+  "-MTWLiPCwHKG-sE3qGun" : {
+    "category" : "fruit",
+    "count" : 14,
+    "dataCreated" : "2021-02-14T16:23:47.410Z",
+    "firebaseKey" : "-MTWLiPCwHKG-sE3qGun",
+    "id" : "3",
+    "img" : "https://stockmeier-food.ru/wp-content/uploads/2019/07/apelsin.jpg",
+    "price" : 149,
+    "title" : "Апельсин"
+  },
+  "-MTWLiS51OPvHwZOtrmX" : {
+    "category" : "fruit",
+    "count" : 0,
+    "dataCreated" : "2021-02-14T16:23:47.594Z",
+    "firebaseKey" : "-MTWLiS51OPvHwZOtrmX",
+    "id" : "4",
+    "img" : "https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/13250/1280575364_nectarin.jpg",
+    "price" : 200,
+    "title" : "Нектарин"
+  },
+  "-MTWLiUrExijjciUS4o5" : {
+    "category" : "vegetable",
+    "count" : 15,
+    "dataCreated" : "2021-02-14T16:23:47.770Z",
+    "firebaseKey" : "-MTWLiUrExijjciUS4o5",
+    "id" : "5",
+    "img" : "https://images.grocery.yandex.net/2750890/33686ff02aa44c7cb4bcb551b42f851a/300x300.png",
+    "price" : 79,
+    "title" : "Огурец"
+  },
+  "-MTWLiXiH1699o5AFQBN" : {
+    "category" : "vegetable",
+    "count" : 14,
+    "dataCreated" : "2021-02-14T16:23:47.954Z",
+    "firebaseKey" : "-MTWLiXiH1699o5AFQBN",
+    "id" : "6",
+    "img" : "https://images.grocery.yandex.net/2756334/e97aaa365384455c84dbfa3691c330f1/300x300.png",
+    "price" : 129,
+    "title" : "Помидоры"
+  },
+  "-MTWLi_XHsCi1rZ8lDwa" : {
+    "category" : "vegetable",
+    "count" : 11,
+    "dataCreated" : "2021-02-14T16:23:48.133Z",
+    "firebaseKey" : "-MTWLi_XHsCi1rZ8lDwa",
+    "id" : "7",
+    "img" : "https://images.grocery.yandex.net/2756334/33a66b51989449f9918122a775885fbc/300x300.png",
+    "price" : 19,
+    "title" : "Свекла"
+  },
+  "-MTWLicHZaTFB9ZjmRGH" : {
+    "category" : "vegetable",
+    "count" : 12,
+    "dataCreated" : "2021-02-14T16:23:48.310Z",
+    "firebaseKey" : "-MTWLicHZaTFB9ZjmRGH",
+    "id" : "8",
+    "img" : "https://images.grocery.yandex.net/2756334/cbb08819de08460a9131a86c627bed92/300x300.png",
+    "price" : 189,
+    "title" : "Баклажан"
+  },
+  "-MTWLiewYfu0RurfkEcA" : {
+    "category" : "meat",
+    "count" : 14,
+    "dataCreated" : "2021-02-14T16:23:48.479Z",
+    "firebaseKey" : "-MTWLiewYfu0RurfkEcA",
+    "id" : "9",
+    "img" : "https://images.grocery.yandex.net/2791769/01fa0c414a1d406da8db8f9a103f752d/300x300.png",
+    "price" : 519,
+    "title" : "Говядина"
+  },
+  "-MTWLihqIv9t1_1yna0F" : {
+    "category" : "meat",
+    "count" : 17,
+    "dataCreated" : "2021-02-14T16:23:48.665Z",
+    "firebaseKey" : "-MTWLihqIv9t1_1yna0F",
+    "id" : "10",
+    "img" : "https://турмясово.рф/wp-content/uploads/2018/08/%D0%A4%D0%B8%D0%BB%D0%B5-%D1%81%D0%B2%D0%B8%D0%BD%D0%B8%D0%BD%D0%B0-300x300.jpg",
+    "price" : 459,
+    "title" : "Свинина"
+  },
+  "-MTWLikkfuFcf4YqupV9" : {
+    "category" : "meat",
+    "count" : 16,
+    "dataCreated" : "2021-02-14T16:23:48.851Z",
+    "firebaseKey" : "-MTWLikkfuFcf4YqupV9",
+    "id" : "11",
+    "img" : "https://myaso-1.ru/wp-content/uploads/2020/02/60588.jpg",
+    "price" : 890,
+    "title" : "Утка"
+  },
+  "-MTWLinaShE7BaaeOtnR" : {
+    "category" : "meat",
+    "count" : 14,
+    "dataCreated" : "2021-02-14T16:23:49.034Z",
+    "firebaseKey" : "-MTWLinaShE7BaaeOtnR",
+    "id" : "12",
+    "img" : "https://produktoff.com/static/upload/goods/21/72421_original.jpg",
+    "price" : 190,
+    "title" : "Курица"
+  },
+  "-MTWLiqFXBBbrTK7xFYV" : {
+    "category" : "fish",
+    "count" : 12,
+    "dataCreated" : "2021-02-14T16:23:49.204Z",
+    "firebaseKey" : "-MTWLiqFXBBbrTK7xFYV",
+    "id" : "13",
+    "img" : "https://images.grocery.yandex.net/2750890/c22be040fc034226aee10d52972db879/300x300.png",
+    "price" : 299,
+    "title" : "Форель"
+  },
+  "-MTWLisuyMWvoeyESd7q" : {
+    "category" : "fish",
+    "count" : 0,
+    "dataCreated" : "2021-02-14T16:23:49.374Z",
+    "firebaseKey" : "-MTWLisuyMWvoeyESd7q",
+    "id" : "14",
+    "img" : "https://images.grocery.yandex.net/2805921/76b31b25e00748b290a44c03e279440c/300x300.png",
+    "price" : 159,
+    "title" : "Тунец"
+  },
+  "-MTWLiv_1y90uy2tkq6K" : {
+    "category" : "fish",
+    "count" : 13,
+    "dataCreated" : "2021-02-14T16:23:49.544Z",
+    "firebaseKey" : "-MTWLiv_1y90uy2tkq6K",
+    "id" : "15",
+    "img" : "https://images.grocery.yandex.net/2805921/b4f8c7add9874804acfae734534e1409/300x300.png",
+    "price" : 429,
+    "title" : "Треска"
+  },
+  "-MTWLiyYBro6ntbyQv6s" : {
+    "category" : "fish",
+    "count" : 10,
+    "dataCreated" : "2021-02-14T16:23:49.735Z",
+    "firebaseKey" : "-MTWLiyYBro6ntbyQv6s",
+    "id" : "16",
+    "img" : "https://olimp-fish.ru/wp-content/uploads/2020/04/%D1%84%D0%B8%D0%BB%D0%B5-%D1%82%D1%80%D0%B5%D1%81%D0%BA%D0%B8-300x300.jpg",
+    "price" : 1200,
+    "title" : "Белуга"
+  },
+  "-MTWLj0P3Fz-gQHRCTR-" : {
+    "category" : "greens",
+    "count" : 12,
+    "dataCreated" : "2021-02-14T16:23:49.929Z",
+    "firebaseKey" : "-MTWLj0P3Fz-gQHRCTR-",
+    "id" : "17",
+    "img" : "https://images.grocery.yandex.net/2756334/09072b2d38ff4b9391f89a2b37a83053/300x300.png",
+    "price" : 169,
+    "title" : "Розмарин"
+  },
+  "-MTWLj3QApkLkLjTEXfd" : {
+    "category" : "greens",
+    "count" : 13,
+    "dataCreated" : "2021-02-14T16:23:50.110Z",
+    "firebaseKey" : "-MTWLj3QApkLkLjTEXfd",
+    "id" : "18",
+    "img" : "https://images.grocery.yandex.net/2783132/1e72718cfd11452a8ed4ed04aee8c033/300x300.png",
+    "price" : 69,
+    "title" : "Шпинат"
+  },
+  "-MTWLj6HoAp355dy1X9D" : {
+    "category" : "greens",
+    "count" : 13,
+    "dataCreated" : "2021-02-14T16:23:50.293Z",
+    "firebaseKey" : "-MTWLj6HoAp355dy1X9D",
+    "id" : "19",
+    "img" : "https://images.grocery.yandex.net/2756334/6f87c8ecea5b4fb98601b901cbcf0b6f/300x300.png",
+    "price" : 39,
+    "title" : "Петрушка"
+  },
+  "-MTWLj94sDujfnJtDGEh" : {
+    "category" : "greens",
+    "count" : 14,
+    "dataCreated" : "2021-02-14T16:23:50.473Z",
+    "firebaseKey" : "-MTWLj94sDujfnJtDGEh",
+    "id" : "20",
+    "img" : "https://images.grocery.yandex.net/2805921/a00ffda9ddca4defa055fd4e6719f4c7/300x300.png",
+    "price" : 35,
+    "title" : "Укроп"
+  },
+  "-MTWLjBq1HU9fBblTmMl" : {
+    "category" : "greens",
+    "count" : 11,
+    "dataCreated" : "2021-02-14T16:23:50.649Z",
+    "firebaseKey" : "-MTWLjBq1HU9fBblTmMl",
+    "id" : "21",
+    "img" : "https://images.grocery.yandex.net/2998515/dc4c4582962e48589147b830c30cebe8/300x300.png",
+    "price" : 99,
+    "title" : "Мята"
+  },
+  "-MTWLjEkiNwz0l6_3paw" : {
+    "category" : "greens",
+    "count" : 15,
+    "dataCreated" : "2021-02-14T16:23:50.836Z",
+    "firebaseKey" : "-MTWLjEkiNwz0l6_3paw",
+    "id" : "22",
+    "img" : "https://images.grocery.yandex.net/2888787/0fd625d240034c8282faff2b4ea677e3/300x300.png",
+    "price" : 55,
+    "title" : "Кинза"
+  },
+  "-MTWLjHZ7ILjTHIHgnRr" : {
+    "category" : "berries",
+    "count" : 10,
+    "dataCreated" : "2021-02-14T16:23:51.016Z",
+    "firebaseKey" : "-MTWLjHZ7ILjTHIHgnRr",
+    "id" : "23",
+    "img" : "https://images.grocery.yandex.net/2805921/af2033d4ef3b4645abd19cd21e408695/300x300.png",
+    "price" : 299,
+    "title" : "Клубника"
+  },
+  "-MTWLjKM5rUw8BLJyo_s" : {
+    "category" : "berries",
+    "count" : 10,
+    "dataCreated" : "2021-02-14T16:23:51.194Z",
+    "firebaseKey" : "-MTWLjKM5rUw8BLJyo_s",
+    "id" : "24",
+    "img" : "https://images.grocery.yandex.net/2756334/569d8814c1e548b0b4945e7bc4cd912a/300x300.png",
+    "price" : 249,
+    "title" : "Голубика"
+  },
+  "-MTWLjNDhmbWtwnGP-jT" : {
+    "category" : "berries",
+    "count" : 15,
+    "dataCreated" : "2021-02-14T16:23:51.378Z",
+    "firebaseKey" : "-MTWLjNDhmbWtwnGP-jT",
+    "id" : "25",
+    "img" : "https://images.grocery.yandex.net/2783132/4e13bf22837b45b59fd4b3e611d5fedf/300x300.png",
+    "price" : 139,
+    "title" : "Виноград"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "-MTWLiJWmP_gsr56h" : {
+    "id" : 1,
+    "img" : "https://image.freepik.com/free-photo/fruits-and-berries-assortment-isolated-on-white-background-with-clipping-path_88281-113.jpg",
+    "title" : "Фрукты",
+    "type" : "fruit",
+    "firebaseKey": "-MTWLiJWmP_gsr56h"
+  },
+  "-MTWLiMMRWdgjhr7hr7eGvyL" : {
+    "id" : 2,
+    "img" : "https://img.bizorg.su/goods/6dc/527/6dc52761dfeb_1.jpeg",
+    "title" : "Овощи",
+    "type" : "vegetable",
+    "firebaseKey": "-MTWLiMMRWdgjhr7hr7eGvyL"
+  },
+  "-MTWLiS51OPip6ittrmX" : {
+    "id" : 3,
+    "img" : "https://lh3.googleusercontent.com/proxy/pEtlfQHr5-PZQ7002xBmeypsH_GUEoUCswmt3-IIQgKw7ioWymHbzgvqC1RD9Av7kvK88xlFyFnJKiA1r0ktQ44OzQVIkV2e24zNb3C7s2z8",
+    "title" : "Мясо",
+    "type" : "meat",
+    "firebaseKey": "-MTWLiS51OPip6ittrmX"
+  },
+  "-MTWLi_XHsCi4bye7e7ua" : {
+    "id" : 4,
+    "img" : "https://ryba-odintsovo.ru/wp-content/uploads/2020/04/123.jpg",
+    "title" : "Рыба",
+    "type" : "fish",
+    "firebaseKey": "-MTWLi_XHsCi4bye7e7ua"
+  },
+  "-MTWLiewYfu06hdfdy6" : {
+    "id" : 5,
+    "img" : "https://www.greenmarket.com.ua/blog/wp-content/uploads/2014/07/zelen1-642x393.jpg",
+    "title" : "Зелень",
+    "type" : "greens",
+    "firebaseKey": "-MTWLiewYfu06hdfdy6"
+  },
+  "-MTWLikkfuFctutuuee69" : {
+    "id" : 6,
+    "img" : "https://st2.depositphotos.com/1026029/7016/i/950/depositphotos_70166973-stock-photo-berry-assortment-raspberries-blackberries-strawberries.jpg",
+    "title" : "Ягоды",
+    "type" : "berries",
+    "firebaseKey": "-MTWLikkfuFctutuuee69"
+  }
+}
